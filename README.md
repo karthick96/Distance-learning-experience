@@ -1,5 +1,5 @@
 # Distance-learning-experience
-Analysis of students feedback on online/distance learning experience during the pandemic time. This mini-project is worked on as part of Ethis for Analytics.
+Analysis of students feedback on online/distance learning experience during the pandemic time. This is worked on as part of Ethics for Analytics.
 
 ## Data
 Data provided is collect from the survey I created for the analysis. <br>
